@@ -1,6 +1,6 @@
 # Welcome to Khem Chandool's Cybersecurity Portfolio
 
-I have included any cybersecurity projects I have worked on during my cybersecurity program as well prjects done using my home lab.
+I have included any cybersecurity projects I have worked on during my cybersecurity program as well projects done using my home lab.
 
 
 #Home Lab setup specifications
