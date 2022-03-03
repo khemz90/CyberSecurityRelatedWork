@@ -2,6 +2,10 @@
 
 I have included any cybersecurity projects I have worked on during my cybersecurity program as well projects done using my home lab.
 
+#Main Menu
+##1. Cyberwox homelab 
+##2. FUllstack academy cybersecurity project - SOS its a DOS
+
 
 #Home Lab setup specifications
 
