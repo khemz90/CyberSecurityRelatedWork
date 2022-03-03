@@ -4,8 +4,8 @@ This is my protfolio on various cybersecurity related projects i have worked on 
 
 ## Main Menu
 
-- 1. Sos its a DOS
-- 2. Cyberwox cybersecurity homelab
+  1. Sos its a DOS
+  2. Cyberwox cybersecurity homelab
 - Import and save files from GitHub, Dropbox, Google Drive and One Drive
 - Drag and drop markdown and HTML files into Dillinger
 - Export documents as Markdown, HTML and PDF
