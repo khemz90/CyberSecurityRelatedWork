@@ -1,6 +1,6 @@
 # Welcome to Khem Chandool's Cybersecurity Portfolio
 
-This is my protfolio on various cybersecurity related projects i have worked on and completed.
+This is my protfolio on various cybersecurity related projects I have worked on and completed.
 
 ## Main Menu
 
