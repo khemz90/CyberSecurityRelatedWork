@@ -1,3 +1,7 @@
+This is a project worked on in fullstack academy
+Title: Sos its a DOS
+Blog URL:
 https://fsaptcybdosreport.blogspot.com/2021/08/this-blog-is-to-serve-as-educational.html?showComment=1629927945018
 
-
+Study and example of a Denial of service attack.
+We explained the various types of DOS attacks and sucessfully able to implement a DOs attack on a apache web server within an isolated enviornment.
